@@ -1,0 +1,27 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "color clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/agdsarge/npm-lab-wdc01-seng-ft-042020.git"
+  },
+  "keywords": [
+    "color",
+    "clock",
+    "color-clock"
+  ],
+  "author": "davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agdsarge/npm-lab-wdc01-seng-ft-042020/issues"
+  },
+  "homepage": "https://github.com/agdsarge/npm-lab-wdc01-seng-ft-042020#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
